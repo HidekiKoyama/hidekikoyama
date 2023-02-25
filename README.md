@@ -13,6 +13,8 @@
       HTML<br>
       CSS<br>
       SQL<br>
+      Java<br>
+      Python<br>
     <h3>Experiências</h3>
     <p>
       Tenho experiências básicas em processo de automações de tarefas administrativas simples.
