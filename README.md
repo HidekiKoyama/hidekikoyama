@@ -14,7 +14,7 @@
       CSS<br>
       SQL<br>
       Java<br>
-      Python<br>
+      <a href="readme.md">Python</a><br>
     <h3>Experiências</h3>
     <p>
       Tenho experiências básicas em processo de automações de tarefas administrativas simples.
@@ -25,4 +25,3 @@
     </p>
   </div>
 </div>
-
