@@ -10,11 +10,10 @@
   <p>
     Atualmente estou estudando as seguintes tecnologias:
   </p>
-      HTML<br>
-      CSS<br>
+      Web<br>
       SQL<br>
       Java<br>
-      <a href="https://github.com/HidekiKoyama/hidekikoyama/blob/main/README.md#ol%C3%A1-mundo">Python</a><br>
+      Python<br>
     <h3>Experiências</h3>
     <p>
       Tenho experiências básicas em processo de automações de tarefas administrativas simples.
