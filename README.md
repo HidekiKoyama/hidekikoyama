@@ -20,6 +20,7 @@
       <br>
       <br>
       Experiência em usar a linguagem SQL, principalmente relacionados à relatórios e consultas para análise;
+      PostgreSQL e SQLServer.
       <br>
     </p>
   </div>
