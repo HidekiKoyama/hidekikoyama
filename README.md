@@ -13,7 +13,7 @@
       Web<br>
       SQL<br>
       Java<br>
-      Python<br>
+      JavaScript<br>
     <h3>Experiências</h3>
     <p>
       Tenho experiências básicas em processo de automações de tarefas administrativas simples.
