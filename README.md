@@ -10,7 +10,7 @@
   <p>
     Atualmente estou estudando as seguintes tecnologias:
   </p>
-      Web<br>
+      HTML & CSS<br>
       SQL<br>
       Java<br>
       JavaScript<br>
