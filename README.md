@@ -9,10 +9,10 @@
   <p>
     Atualmente estou estudando as seguintes tecnologias:
   </p>
-      HTML, CSS & JavaScript - Front-end<br>
-      🤔  SQL - Análise e Modelação de dados<br>
-      ♨   Java - Matéria Faculdade<br>
-      🐍  Django py - Back-end<br>
+      HTML, CSS & JavaScript ----->Front-end;<br>
+      🤔  SQL -------------------->Análise e Modelação de dados;<br>
+      ♨   Java ------------------->Matéria Faculdade;<br>
+      🐍  Django py -------------->Back-end;<br>
     <h3>Experiências</h3>
     <p>
       Experiência básica em processo de automações de tarefas administrativas simples.<br>
