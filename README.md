@@ -6,10 +6,10 @@
   <h3>
     Dev. Hideki. <br> Prazer!
   </h3>
+  <hr>
   <p>
     Atualmente estou estudando as seguintes tecnologias:
   </p>
-  <hr>
       |💻| HTML, CSS e JavaScript|——————————————|Front-end|<br>
       |🤔| SQL|———————————————————————|Análise e Modelação de dados|<br>
       |☕| Java|———————————————————————|Matéria Faculdade|<br>
