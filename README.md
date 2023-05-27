@@ -20,4 +20,6 @@
       Com PostgreSQL e SQLServer.<br>
     </p>
   </div>
+**[<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/channels/@Cyber_Hiki#0001)** 
+**[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]([https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfrLfvfTmcbRJvtJRGGqvWjZCDQksGWPHzgjqfGDdFRxMRPGjjLGsFjSfQlZbmNzTKLfbq](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqXxmNlGcrzdGWHpqXCDcmBCVQPVSHwcmbQDqRlXfbsWwfNtCXnHMVBdTxRBzQJDkDXHDB))**
 </div>
