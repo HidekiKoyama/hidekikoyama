@@ -1,5 +1,4 @@
 <h1>Olá Mundo</h1>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hidekikoyama&show_icons=true&theme=radical)](https://github.com/hidekikoyama/github-readme-stats)
 <div>
   <h3>
     Dev. Hideki. <br> Prazer!
