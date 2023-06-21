@@ -4,10 +4,10 @@
   <p>
     Atualmente estou estudando as seguintes tecnologias:
   </p>
-      |💻| HTML, CSS e JavaScript|——————————————|Front-end|<br>
-      |🤔| SQL|———————————————————————|Análise e Modelação de dados|<br>
-      |☕| Java|———————————————————————|Matéria Faculdade|<br>
-      |🐍| Django py|————————————————————|Back-end|<br>
+      |💻| HTML, CSS e JavaScript | Front-end|<br>
+      |🤔| SQL | Análise e Modelação de dados|<br>
+      |☕| Java | Matéria Faculdade|<br>
+      |🐍| Django py | Back-end|<br>
   <hr>  
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HidekiKoyama&show_icons=true&count_private=true&hide_border=true&title_color=f7e967&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Koyama Hideki github stats" /> 
