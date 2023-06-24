@@ -1,14 +1,31 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7E967&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7E967&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem+Vindo(a)!;Hello!,+My+name+is+Hideki+Koyama;I+have+19+years+old!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7E967&size=35&center=true&vCenter=true&width=1000&lines=Wellcome!;Hello!,+My+name+is+Hideki+Koyama;I+have+19+years+old!)](https://git.io/typing-svg)
   <p>
-    Atualmente estou estudando as seguintes tecnologias:
+    I am currently studying the following technologies:
   </p>
-      |💻| HTML, CSS e JavaScript | Front-end|<br>
-      |🤔| SQL | Análise e Modelação de dados|<br>
-      |☕| Java | Matéria Faculdade|<br>
-      |🐍| Django py | Back-end|<br>
-  <hr>  
+  <hr>
+    <p>For front-end</p> 
+    <p align="center">
+    <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/html.png" width="15%">
+    <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/css-3.png" width="15%">
+    <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/js.png" width="15%">
+    </p>
+  </p>
+  <hr>
+    <p align="center">For back-end</p>
+    <p align="center">
+    <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/python.png" width="15%">
+    <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/django.png" width="12%">
+    </p>
+  </p>
+  <hr>
+    <p align="center">For database</p>
+    <p align="center">
+    <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/postgre.png" width="15%">
+    <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/sql-server.png" width="15%">
+    </p>
+  <hr>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HidekiKoyama&show_icons=true&count_private=true&hide_border=true&title_color=f7e967&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Koyama Hideki github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidekiKoyama&layout=compact&hide_border=true&title_color=f7e967&text_color=ff91a4&bg_color=0d1117" />
