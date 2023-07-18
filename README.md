@@ -16,7 +16,6 @@
     <p align="center">
     <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/html.png" width="15%">
     <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/css-3.png" width="15%">
-    <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/js.png" width="15%">
     </p>
   </p>
   <hr>
