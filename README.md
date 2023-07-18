@@ -4,19 +4,19 @@
   <p>
     I am currently studying the following technologies, with focus in back-end:
   </p>
-  <hr>
-    <p>For front-end</p> 
-    <p align="center">
-    <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/html.png" width="15%">
-    <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/css-3.png" width="15%">
-    <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/js.png" width="15%">
-    </p>
-  </p>
-  <hr>
+    <hr>
     <p align="center">For back-end</p>
     <p align="center">
     <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/python.png" width="15%">
     <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/django.png" width="12%">
+    </p>
+  </p>
+  <hr>
+    <p align="center">For front-end</p> 
+    <p align="center">
+    <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/html.png" width="15%">
+    <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/css-3.png" width="15%">
+    <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/js.png" width="15%">
     </p>
   </p>
   <hr>
