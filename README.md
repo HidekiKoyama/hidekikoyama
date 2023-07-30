@@ -12,13 +12,6 @@
     </p>
   </p>
   <hr>
-    <p align="center">For front-end</p> 
-    <p align="center">
-    <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/html.png" width="15%">
-    <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/css-3.png" width="15%">
-    </p>
-  </p>
-  <hr>
     <p align="center">For database</p>
     <p align="center">
     <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/postgre.png" width="15%">
