@@ -2,12 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7E967&size=35&center=true&vCenter=true&width=1000&lines=Wellcome!;Hello!,+My+name+is+Hideki+Koyama;I+have+19+years+old!)](https://git.io/typing-svg)
   <p>
-    I am currently studying the following technologies, with focus in back-end:
+    I am currently studying the following technologies, with focus in data-science:
   </p>
     <hr>
-    <p align="center">For back-end</p>
+    <p align="center">For ETL and analytics</p>
     <p align="center">
     <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/python.png" width="15%">
+    <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/excel_logo.png" width="15%">
     </p>
   </p>
   <hr>
