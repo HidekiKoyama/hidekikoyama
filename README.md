@@ -8,7 +8,8 @@
     <p align="center">For ETL and analytics</p>
     <p align="center">
     <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/python.png" width="15%">
-    <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/excel_logo.png" width="15%">
+    <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/excel_logo.png" width="25%">
+    <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/powerbi.png" width="15%">
     </p>
   </p>
   <hr>
