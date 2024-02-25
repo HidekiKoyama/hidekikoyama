@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7E967&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7E967&size=35&center=true&vCenter=true&width=1000&lines=Wellcome!;Hello!,+My+name+is+Hideki+Koyama;I+have+19+years+old!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7E967&size=35&center=true&vCenter=true&width=1000&lines=Wellcome!;Hello!,+My+name+is+Hideki+Koyama;I+have+20+years+old!)](https://git.io/typing-svg)
   <p>
     I am currently studying the following technologies, with focus in data-science:
   </p>
