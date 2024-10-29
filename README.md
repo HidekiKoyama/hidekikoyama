@@ -37,5 +37,5 @@
     <a href="https://discord.com/channels/@Cyber_Hiki#0001"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqXxmNlGcrzdGWHpqXCDcmBCVQPVSHwcmbQDqRlXfbsWwfNtCXnHMVBdTxRBzQJDkDXHDB"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/hideki-koyama/"><img src="https://img.shields.io/badge/linkedin-5865F3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://www.instagram.com/hideki_oficial/"><img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <!--<a href="https://www.instagram.com/hideki_oficial/"><img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
   </p>
