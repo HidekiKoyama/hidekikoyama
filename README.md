@@ -2,36 +2,39 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7E967&size=35&center=true&vCenter=true&width=1000&lines=Wellcome!;Hello!,+My+name+is+Hideki+Koyama;I+have+20+years+old!)](https://git.io/typing-svg)
   <p>
-    I am currently studying the following technologies, with focus in data-science:
+    Estou constantemente melhorando minhas habilidades em:
   </p>
-    <hr>
-    <p align="center">For ETL and analytics</p>
+  <hr>
+    <p align="center">Linguagens e tecnologias</p>
     <p align="center">
-    <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/python.png" width="15%">
-    <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/excel_logo.png" width="25%">
-    <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/powerbi.png" width="15%">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="11%"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="10%"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="10%"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"width="10%"/>   
+    <br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="12%"/>      
     </p>
-  </p>
+  <hr>
+    <p align="center">Frameowrks e bibliotecas</p>
+    <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="10%"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="10%"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-plain-wordmark.svg" width="10%"/>
+    <!--
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width="10%"/>      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="10%"/>
+    -->
   <hr>
     <p align="center">For database</p>
     <p align="center">
-    <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/postgre.png" width="15%">
-    <img src="https://raw.githubusercontent.com/HidekiKoyama/site-pessoal/main/static/main/img/sql-server.png" width="15%">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width="10%">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="10%">
     </p>
   <hr>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HidekiKoyama&show_icons=true&count_private=true&hide_border=true&title_color=f7e967&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Koyama Hideki github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidekiKoyama&layout=compact&hide_border=true&title_color=f7e967&text_color=ff91a4&bg_color=0d1117" />
 </div>
-  <h3>Experiências</h3>
-    <p>
-      
-      Print('Experiência básica em processo de automações de tarefas administrativas simples.\n'+
-      'Experiência em usar a linguagem SQL, principalmente relacionados à relatórios e consultas para análise;\n' +
-      'Com PostgreSQL e SQLServer.')
-
-    
-
   <br>
   <p align="center">
     <a href="https://discord.com/channels/@Cyber_Hiki#0001"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
