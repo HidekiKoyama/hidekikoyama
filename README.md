@@ -7,12 +7,12 @@
 <br><br><br>
 
 <h3>  
-  •  💻 linguagens: Python, Javascript
+  •  💻 linguagens: Python e R
 </h3>
 <br><br>
 <h3>
   •  🩹 Tecnologias/Frameworks: 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="20px"/> Docker, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="20px"/> Flask , <img src="./imgs/fastAPI.png" width=20px> FastAPI , <img src="./imgs/Django.svg" width="20px"/> Django 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="20px"/> Docker, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="20px"/> Flask , <img src="./imgs/fastAPI.png" width=20px> FastAPI 
 </h3>
 <br><br>
 <h3>  
