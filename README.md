@@ -1,28 +1,20 @@
-<img width=100% src="./imgs/up.svg"/>
-<br><br><br>
+## Eai, pessoal! 👋
 
-<h3>  
-  Desenvolvendo projetos em Python 🐍, trabalhando atualmente como Analista de dados.
-</h3>
-<br><br><br>
+Me chamo Gabriel Hideki Koyama, um amante da Análise de Dados atualmente situado no Brasil. Sou especialista em extrair insights de dados e transformá-los em estratégias acionáveis. Vamos descobrir a história por trás dos números juntos!
 
-<h3>  
-  •  💻 linguagens: Python e R
-</h3>
-<br><br>
-<h3>
-  •  🩹 Tecnologias/Frameworks: 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="20px"/> Docker, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="20px"/> Flask , <img src="./imgs/fastAPI.png" width=20px> FastAPI 
-</h3>
-<br><br>
-<h3>  
-  •  💾 Banco de dados: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" width=20px> Postgres, <img width=20px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">  SQL Server
-</h3>
-<br><br><br>
-<div aling="center">  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HidekiKoyama&show_icons=true&theme=transparent">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidekiKoyama&layout=compact&theme=transparent">
-</div>  
+## Sobre mim
 
-<br><br><br>
-<img width=100% src="./imgs/bottom.svg"/>
+Com sólida formação em SQL, Python, Power BI e Excel avançado, meu foco é transformar dados em narrativas significativas. Atualmente, trabalho na [Ibar](https://ibar.com.br) e gosto de encarar desafios complexos em análise de dados. Quando não estou analisando números, você pode encontrar meu portfólio em [hideki.dev.br](https://hideki.dev.br).
+
+## Skills & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=py,r,mysql,postgres,flask,fastapi,anaconda&perline=8)](https://skillicons.dev)
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HidekiKoyama&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HidekiKoyama&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Vamos se conectar?
+
+<a href="https://hideki.dev.br" target="_blank" rel="noopener noreferrer"><Icon /> Site Pessoal</a> <br> <br>
+<a href="https://www.linkedin.com/in/hideki-koyama/" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a> 
